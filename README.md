@@ -4,7 +4,6 @@
     Hi there 👋 I'm Daniel Mateo Hernandez Diaz
   </h1>
 
-  <img src="https://www.itconsultors.com/images/blog/blog3c08f9fdc86151d46f3499da8227ac9f_data-science.jpg" width="600" style="border-radius: 10px;" />
 
   <h3 style="color: #E0E0E0; margin-top: 20px;">
     Python Developer | Data Analyst | Data Science
