@@ -1,6 +1,11 @@
 <h1 aling='center'>
-## Hi there 👋 I'm Daniel Mateo Hernandez Diaz
+ Hi there 👋 I'm Daniel Mateo Hernandez Diaz
 <h/1>
+
+<div align="center">
+  Python Development | Data Analyst | Data Science
+</div>
+
 
 
   <a href="https://www.linkedin.com/in/daniel-hernandez1996/">
