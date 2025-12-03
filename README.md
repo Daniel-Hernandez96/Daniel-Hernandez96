@@ -1,30 +1,22 @@
-<h1 aling='center'>
- Hi there 👋 I'm Daniel Mateo Hernandez Diaz
-<h/1>
+<div align="center" style="background: linear-gradient(135deg, #0A66C2 20%, #041C32 80%); padding: 40px; border-radius: 12px;">
 
-<div align="center">
-  Python Development | Data Analyst | Data Science
-</div>
+  <h1 align="center" style="color: white;">
+    Hi there 👋 I'm Daniel Mateo Hernandez Diaz
+  </h1>
 
+  <img src="https://www.itconsultors.com/images/blog/blog3c08f9fdc86151d46f3499da8227ac9f_data-science.jpg" width="600" style="border-radius: 10px;" />
 
+  <h3 style="color: #E0E0E0; margin-top: 20px;">
+    Python Developer | Data Analyst | Data Science
+  </h3>
+
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
+
+  <br><br>
 
   <a href="https://www.linkedin.com/in/daniel-hernandez1996/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<!--
-**Daniel-Hernandez96/Daniel-Hernandez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
